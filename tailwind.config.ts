@@ -15,6 +15,7 @@ const config: Config = {
       },
     },
   },
+  safelist:['text-xl','font-bold','text-gray-800'],
   plugins: [],
 };
 export default config;
